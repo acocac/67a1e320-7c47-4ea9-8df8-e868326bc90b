@@ -11,7 +11,7 @@ dependencies:
   - nbdime
   - netcdf4=1.6.0
   - notebook
-  - pip
+  - pip=22.2.2
   - python<3.12
   - "tensorflow<2.16=cpu*"
   - pip:
